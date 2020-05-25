@@ -1,13 +1,13 @@
-# Project: code-refactor
+* Project: code-refactor
 
-# Homework Assignment #1
+* Homework Assignment #1
 
-# Installation: Completed April 5, 2020 at 8:00 pm.
+* Installation: Completed April 5, 2020 at 8:00 pm.
 
-# Link to project published page: https://lynnboudreau.github.io/code-refactor/
+* Link to project published page: https://lynnboudreau.github.io/code-refactor/
 
-# Usage: Homework Assignment #1 code-refactor
+* Usage: Homework Assignment #1 code-refactor
 
-# Credits: Lynn Boudreau, Student Coder
+* Credits: Lynn Boudreau, Student Coder
 
-# Licenses: Open source
+* Licenses: none
